@@ -1,2 +1,2 @@
 # Cooking Recipe:
-**Today, I'm gonna make a oats egg omlette.**
+**Today, I'm gonna make a egg omlette.**
